@@ -1,1 +1,28 @@
+----------------------------------------R Language----------------------------------------
 
+R is a language and environment for statistical computing and graphics. 
+
+R is a programming language developed by Ross Ihaka and Robert Gentleman in 1993.
+
+R includes machine learning algorithm, linear regression, time series, statistical inference to name a few.
+
+R is not only entrusted by academic, but many large companies also use R programming language, including Uber, Google, Airbnb, Facebook .
+
+Data analysis with R is done in a series of steps; programming, transforming, discovering, modeling and communicate the results
+
+Program:
+     R is a clear and accessible programming tool
+Transform:
+     R is made up of a collection of libraries designed specifically for data science
+Discover:
+     Investigate the data, refine your hypothesis and analyze them
+Model:
+     R provides a wide array of tools to capture the right model for your data
+Communicate:
+     Integrate codes, graphs, and outputs to a report with R Markdown or build Shiny apps to share with the world
+R language is used for :
+         1) Statistical inference
+         2) Data analysis
+         3) Machine learning algorithm
+         
+        
